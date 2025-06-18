@@ -1,4 +1,5 @@
-
+#include <stdio.h>
+#include <stdlib.h>
 #define SIZE 300
 int main()
 {
